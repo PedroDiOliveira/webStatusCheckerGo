@@ -1,0 +1,25 @@
+04/07/2023 16:06:44 - Site Falso - online: false
+04/07/2023 16:06:46 - http://github.com - online: true
+04/07/2023 16:06:46 - https://www.youtube.com - online: true
+04/07/2023 16:06:46 - https://openai.com - online: true
+04/07/2023 16:06:47 - https://store.steampowered.com - online: true
+04/07/2023 16:10:24 - Site Falso - online: false
+04/07/2023 16:10:26 - http://github.com - online: true
+04/07/2023 16:10:26 - https://www.youtube.com - online: true
+04/07/2023 16:10:26 - https://openai.com - online: true
+04/07/2023 16:10:26 - https://store.steampowered.com - online: true
+04/07/2023 16:10:58 - Site Falso - online: false
+04/07/2023 16:10:59 - http://github.com - online: true
+04/07/2023 16:10:59 - https://www.youtube.com - online: true
+04/07/2023 16:11:00 - https://openai.com - online: true
+04/07/2023 16:11:00 - https://store.steampowered.com - online: true
+04/07/2023 16:12:41 - Site Falso - online: false
+04/07/2023 16:12:44 - http://github.com - online: true
+04/07/2023 16:12:44 - https://www.youtube.com - online: true
+04/07/2023 16:12:44 - https://openai.com - online: true
+04/07/2023 16:12:45 - https://store.steampowered.com - online: true
+04/07/2023 16:13:54 - Site Falso - online: false
+04/07/2023 16:14:02 - http://github.com - online: true
+04/07/2023 16:14:02 - https://www.youtube.com - online: true
+04/07/2023 16:14:02 - https://openai.com - online: true
+04/07/2023 16:14:03 - https://store.steampowered.com - online: true
